@@ -2,8 +2,7 @@
 
 # Hi 👋, I´m Estefano Bruno, welcome to my GitHub.
 
-I´m 22 years old studying Full Stack Developer. I´m from Argentina but currently living at Europe. I´ve started studying in 2021 as a hobby but right now it´s my main goal. Right now I´m a teaching assistant in Henry and also developing an E-commerce with a group also in Henry as my final proyect.
-My skills are HTML, CSS, Javascrip, React, Redux, Express, SQL, Sequelize, among others.
+I´m a Software Engineer. I have worked in several projects participating on architecture designs, development, testing and code reviews. As a developer I´m always looking for new things to learn and grow as a professional.
 I can speak Spanish, Italian or English. 
 
 If you want to contact me you can reach me in Linkedin https://www.linkedin.com/in/estefano-bruno/ or in my personal email at fanobruno@gmail.com .
